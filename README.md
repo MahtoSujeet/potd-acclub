@@ -2,6 +2,11 @@
 
 Welcome to the Problem of the Day (POTD) repository! This repository contains daily coding problems provided by the seniors in the Application Club to help us prepare for Data Structures and Algorithms (DSA).
 
+
+[![Last commit](https://img.shields.io/github/last-commit/MahtoSujeet/potd-acclub?&logo=github)](https://github.com/MahtoSujeet/potd-acclub)
+[![Size](https://img.shields.io/github/repo-size/MahtoSujeet/potd-acclub?color=green)](https://github.com/MahtoSujeet/potd-acclub)
+
+
 ## Purpose
 
 # Problem of the Day (POTD)
