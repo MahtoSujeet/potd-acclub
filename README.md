@@ -9,12 +9,6 @@ Welcome to the Problem of the Day (POTD) repository! This repository contains da
 
 ## Purpose
 
-# Problem of the Day (POTD)
-
-Welcome to the Problem of the Day (POTD) repository! This repository contains daily coding problems provided by the seniors in the Application Club to help us prepare for Data Structures and Algorithms (DSA).
-
-## Purpose
-
 The main goal of this repository is to enhance our problem-solving skills and prepare us for technical interviews and competitive programming. Each day, a new problem will be added to this repository for you to solve.
 
 **Note:** This repository is not for use, it is just for seniors to make it easy for them to track my progress.
