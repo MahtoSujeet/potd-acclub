@@ -9,9 +9,9 @@ Welcome to the Problem of the Day (POTD) repository! This repository contains da
 
 ## Purpose
 
-The main goal of this repository is to enhance our problem-solving skills and prepare us for technical interviews and competitive programming. Each day, a new problem will be added to this repository for you to solve.
+The main goal of this repository is to enhance our problem-solving skills and prepare us for technical interviews and competitive programming. Each day, I will add solution of that day's problem to the repo.
 
-**Note:** This repository is not for use, it is just for seniors to make it easy for them to track my progress.
+**Note:** This repository is not for use, it is just for my seniors to make it easy for them to track my progress.
 ## Structure
 
 The repository is organized as follows:
